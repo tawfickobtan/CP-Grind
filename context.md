@@ -61,7 +61,7 @@ If Toffy later wants ECPC/team/contests as a first-class track, add it here. Unt
 | File | Job |
 | --- | --- |
 | `context.md` (this file) | Identity, goals, constraints, weekly loop, agent rules |
-| Roadmap file (next) | **Everything** that makes an all-time-great CP-er: full topic list + year overview |
+| `roadmap.md` | **Everything** that makes an all-time-great CP-er: full topic list + year overview |
 
 The roadmap syllabus must be **complete**, not “what we can finish in 12 months.” Include beginner through world-finals / god-tier topics (implementation, math, greedy, DS, graphs, DP, strings, geometry, flows, number theory, polynomials/FFT, tricks, etc.). The year will **not** finish all of it. Weekly assignment walks that list from the ground up and only advances when the reports say he’s ready.
 
@@ -197,6 +197,4 @@ Any agent continuing the project should update the latest week file (or create t
 
 ## 13. First action after this file
 
-Create the **roadmap file**: the complete topic list and year overview for becoming an all-time-great competitive programmer, ordered from ground up, written so weekly CF sets can be pulled from it.
-
-Do not start Week 1 until Toffy asks.
+`roadmap.md` exists. Do not start Week 1 until Toffy asks. When he does: start at **T00**, band ~800–1000, CF only.
