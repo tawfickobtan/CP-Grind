@@ -27,7 +27,7 @@ Read `context.md` first. This file is the **full topic list** and **year overvie
 | Phase | 0 — CF literacy |
 | Topic id | `T00` |
 | Rating band | ~800–1000 |
-| Week 1 | not assigned yet |
+| Week 1 | assigned 2026-08-28 (`weeks/001-week.md`) — waiting on report |
 | Last report | none |
 
 Update this table whenever a week is closed.
