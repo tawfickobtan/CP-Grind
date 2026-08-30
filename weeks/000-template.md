@@ -45,20 +45,6 @@ Core set. Aim 8–15. Easy → harder.
 
 ## Report
 
-Fill at week’s end. Messy is fine.
+Talk. Paste the dump. Messy is fine.
 
-**Solved:**  
 
-**Stuck / attempted:**  
-
-**What felt easy:**  
-
-**What broke my brain:**  
-
-**Editorials / hints?**  
-
-**This topic: I get it / still feels fake:**  
-
-**Hours (optional):**  
-
-**Anything else:**  

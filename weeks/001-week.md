@@ -50,20 +50,7 @@ Core set. Easy → harder. Do them in order.
 
 ## Report
 
-Fill at week’s end. Messy is fine.
+Talk. Paste the dump. Messy is fine.
 
-**Solved:**  
+Bit++ was kind of easy. It just taught me how to use strings and the general C++ syntax. Was very easy. An afternoon. Taught me how to input a variable number of inputs in C++. The queue problem taught me I can treat this string as an array and set elements and swap them like I would with an integer array. Football wasn't special. Solved it normally. Ilia and the bank account was quite nice and it taught me a bit of integer manipulation.
 
-**Stuck / attempted:**  
-
-**What felt easy:**  
-
-**What broke my brain:**  
-
-**Editorials / hints?**  
-
-**This topic: I get it / still feels fake:**  
-
-**Hours (optional):**  
-
-**Anything else:**  
