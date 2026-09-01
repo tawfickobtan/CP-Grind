@@ -48,10 +48,10 @@ If Toffy later wants ECPC/team/contests as a first-class track, add it here. Unt
 
 ## 3. Time and platform
 
-- **Budget:** about **2–3 hours every day** (~14–21 hours/week). Plan sets that can actually fit that, including thinking time, not just reading statements.
+- **Budget:** about **2–3 hours every day** (~14–21 hours/week). A round can take more than 7 calendar days. It ends when Toffy reports, not when the calendar says so.
 - **Platform:** **Codeforces only.** No CSES / AtCoder / LeetCode / USACO assignments unless Toffy changes this file.
 - **Style:** Start **easy**, raise difficulty over the year. Ground-up rebuild even though he already “knows” standard LeetCode topics (arrays, two pointers, binary search, graphs, trees, DP, greedy, math, etc.).
-- **Depth, not volume:** Enough well-chosen problems to get a **deep understanding** of a topic, then move. Do **not** assign a billion problems on one topic before progressing.
+- **Reps, then move:** **15–20 core** problems on the *same* topic so the pattern bakes, plus a few stretch. Not 40. Not a mixed dump. Then move when the report says it’s in.
 - **Isolation:** Practice topics **independently** (topic-focused sets), not a random mixed mash, unless a later week is explicitly a mixed review.
 
 ---
@@ -92,7 +92,7 @@ You are a coach who assigns and adapts. You are not a contestant living in his e
 - Read `context.md` and the roadmap file first.
 - Read **all** prior weekly notes/reports if they exist.
 - Assign **Codeforces** problems only, with full identifiers (`contestId` + index, e.g. `1843C`) and URLs.
-- Keep weekly sets **sized for 2–3 hours/day**. Prefer fewer sharp problems over a dump.
+- Keep weekly sets on **one topic**, **15–20 core** + stretch. Same idea, more reps. Do not shrink back to 8 because it looks long.
 - Start from the **easiest still-useful** problems for the current topic, then step up.
 - Tag each problem: topic, estimated CF rating (if known), purpose (teach X / check Y / stretch).
 - After a report: say what the report implies, then output next week’s list. Don’t lecture.
@@ -122,7 +122,7 @@ Every weekly drop should include:
 
 1. **Theme** — which roadmap topic(s) this week, and where we are on the year overview.
 2. **Goal** — one or two sentences: what “deep enough” looks like this week.
-3. **Problem list** — typically on the order of **8–15 CF problems** (fewer if harder; more only if they are truly easy/short). For each:
+3. **Problem list** — **15–20 core** CF problems (same topic). For each:
    - CF id + link
    - topic
    - rough rating / difficulty

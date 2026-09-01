@@ -10,8 +10,8 @@ Read `context.md` first. This file is the **full topic list** and **year overvie
 
 1. Look at **Current position** below (and `weeks/` if those files exist).
 2. Stay on that topic (or the next one, if last week’s report said he’s ready).
-3. Assign 8–15 CF problems on **that topic**, easy → harder, sized for 2–3 hours/day.
-4. Do **not** skip ahead because LeetCode is strong. Do **not** dump a billion problems on one topic.
+3. Assign **15–20 core** CF problems on **that topic**, easy → harder, plus stretch. Same idea, more reps. A round may last more than 7 days.
+4. Do **not** skip ahead because LeetCode is strong. Do **not** dump 40+ problems on one topic.
 5. After a good report, tick the topic in the progress table and move the pointer.
 6. Mixed-review weeks are allowed only as an explicit “review” week, not as the default.
 
@@ -25,10 +25,12 @@ Read `context.md` first. This file is the **full topic list** and **year overvie
 | --- | --- |
 | Date started | 2026-08-23 |
 | Phase | 0 — CF literacy |
-| Topic id | `T00` |
-| Rating band | ~800–1000 |
-| Week 1 | assigned 2026-08-28 (`weeks/001-week.md`) — waiting on report |
-| Last report | none |
+| Topic id | `T01` (T00 cleared) |
+| Rating band | ~1100–1500 |
+| Week 1 | done 2026-09-01 — all core + stretch (some were old ACs) |
+| Week 2 | assigned 2026-09-01 (`weeks/002-week.md`) |
+| Last report | T00 felt easy; C++ I/O + 313A were the real learning; stretch 1200–1300 ACed |
+| Set size | 15–20 core + stretch |
 
 Update this table whenever a week is closed.
 
@@ -110,7 +112,7 @@ Tick when a topic is **deep enough** (from the weekly report), not when it was a
 
 | Id | Topic | Phase | Done? |
 | --- | --- | --- | --- |
-| T00 | CF literacy, constraints, implementation | 0 | |
+| T00 | CF literacy, constraints, implementation | 0 | yes (week 1) |
 | T01 | Simulation, ad-hoc, casework | 0 | |
 | T02 | Constructive algorithms (easy → medium) | 0 | |
 | T03 | Prefix sums & difference arrays | 1 | |
@@ -853,4 +855,4 @@ IOI excludes some of Phase 13–18 (FFT, heavy linear algebra, Sprague-Grundy as
 - A fixed “week 17 = Dijkstra” calendar (reports move the pointer)
 - Week 1 assignment (Toffy asks first)
 
-When Toffy asks for Week 1: start at **T00**, band **800–1000**, tag `implementation`, 8–15 CF problems, plus a short report template. Then update **Current position**.
+Week 1 (`T00`) is done. Next assignment: **T01**, band bumped (~1100–1500), **15–20 core** + stretch. Then update **Current position**.
