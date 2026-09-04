@@ -10,7 +10,7 @@ Read `context.md` first. This file is the **full topic list** and **year overvie
 
 1. Look at **Current position** below (and `weeks/` if those files exist).
 2. Stay on that topic (or the next one, if last week’s report said he’s ready).
-3. Assign **15–20 core** CF problems on **that topic**, easy → harder, plus stretch. Same idea, more reps. A round may last more than 7 days.
+3. Assign about **10 core** CF problems on **that topic**, easy → harder, plus stretch. A round may last more than 7 days.
 4. Do **not** skip ahead because LeetCode is strong. Do **not** dump 40+ problems on one topic.
 5. After a good report, tick the topic in the progress table and move the pointer.
 6. Mixed-review weeks are allowed only as an explicit “review” week, not as the default.
@@ -30,7 +30,7 @@ Read `context.md` first. This file is the **full topic list** and **year overvie
 | Week 1 | done 2026-09-01 — all core + stretch (some were old ACs) |
 | Week 2 | assigned 2026-09-01 (`weeks/002-week.md`) |
 | Last report | T00 felt easy; C++ I/O + 313A were the real learning; stretch 1200–1300 ACed |
-| Set size | 15–20 core + stretch |
+| Set size | ~10 core + stretch |
 
 Update this table whenever a week is closed.
 
@@ -855,4 +855,4 @@ IOI excludes some of Phase 13–18 (FFT, heavy linear algebra, Sprague-Grundy as
 - A fixed “week 17 = Dijkstra” calendar (reports move the pointer)
 - Week 1 assignment (Toffy asks first)
 
-Week 1 (`T00`) is done. Next assignment: **T01**, band bumped (~1100–1500), **15–20 core** + stretch. Then update **Current position**.
+Week 1 (`T00`) is done. Week 2 (`T01`) is assigned in `weeks/002-week.md` (~10 core + stretch). Then update **Current position**.

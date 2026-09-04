@@ -18,7 +18,7 @@ Problems below are **Codeforces only**. Resources are for the topic, not extra h
 
 ## Problems
 
-Core set. Aim **15–20**. Easy → harder. Add/remove rows as needed.
+Core set. Aim about **10**. Easy → harder.
 
 | # | ID | Rating | Why it’s here | Link | Status |
 | --- | --- | --- | --- | --- | --- |
@@ -32,16 +32,6 @@ Core set. Aim **15–20**. Easy → harder. Add/remove rows as needed.
 | 8 | | | | | |
 | 9 | | | | | |
 | 10 | | | | | |
-| 11 | | | | | |
-| 12 | | | | | |
-| 13 | | | | | |
-| 14 | | | | | |
-| 15 | | | | | |
-| 16 | | | | | |
-| 17 | | | | | |
-| 18 | | | | | |
-| 19 | | | | | |
-| 20 | | | | | |
 
 **ID** = Codeforces id (`1843C`). **Link** = `https://codeforces.com/problemset/problem/1843/C`. **Status** = leave blank until the report (solved / stuck / skipped / editorial).
 
@@ -58,5 +48,3 @@ Core set. Aim **15–20**. Easy → harder. Add/remove rows as needed.
 ## Report
 
 Talk. Paste the dump. Messy is fine.
-
-
